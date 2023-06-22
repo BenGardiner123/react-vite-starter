@@ -24,7 +24,9 @@ To begin your React Vite journey, follow these steps:
 ## Building for Production
 
 When your React application is ready for deployment, you can create an optimized production build. Run the following command:
-
+```
+npm run build
+```
 Vite will generate a production-ready bundle in the `dist` directory. You can then host this folder on any static hosting platform or server.
 
 ## Learn More
@@ -33,10 +35,19 @@ To learn more about Vite and React, refer to the official documentation:
 
 - [Vite Documentation](https://vitejs.dev/)
 - [React Documentation](https://react.dev/)
+- [Tailwind Documentation](https://tailwindcss.com/)
 
 ## Contributing
 
 Contributions to this starter template are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+## Deployment
+Deployment options abound you can check out
+- [Netlify](https://https://v2.vitejs.dev/guide/static-deploy.html#netlify)
+- [Firebase](https://v2.vitejs.dev/guide/static-deploy.html#google-firebase)
+- [Heroku](https://v2.vitejs.dev/guide/static-deploy.html#heroku)
+- [Vercel](https://v2.vitejs.dev/guide/static-deploy.html#vercel-cli)
+- [Render](https://render.com/docs)
 
 ## License
 
