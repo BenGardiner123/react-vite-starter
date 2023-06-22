@@ -1,3 +1,4 @@
+![image](https://github.com/BenGardiner123/react-vite-starter/assets/61527372/18fcbbeb-bfae-426a-9eae-79ff7b0e9e0b)
 # React Vite Starter Template
 
 Welcome to the React Vite Starter Template! This repository serves as the perfect starting point for building React applications with the lightning-fast Vite build tool. With its optimized development experience and powerful capabilities, you'll be able to create remarkable web applications in no time.
