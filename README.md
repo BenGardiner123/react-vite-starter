@@ -1,15 +1,18 @@
 ![image](https://github.com/BenGardiner123/react-vite-starter/assets/61527372/18fcbbeb-bfae-426a-9eae-79ff7b0e9e0b)
 # React Vite Starter Template
 
-Welcome to the React Vite Starter Template! This repository serves as the perfect starting point for building React applications with the lightning-fast Vite build tool. With its optimized development experience and powerful capabilities, you'll be able to create remarkable web applications in no time.
+A modern, TypeScript-ready starter kit featuring Vite's lightning-fast build tools, Tailwind CSS for styling, and Framer Motion for animations. Perfect for developers who want a production-ready foundation with mobile-friendly components and best practices baked in.
 
 ## Features
 
-- Lightning-fast development server powered by Vite.
-- Seamless integration with React, enabling you to build dynamic user interfaces.
-- Hot module replacement for instant code updates during development.
-- Support for modern JavaScript features and optimizations.
-- Convenient build process for production-ready bundles.
+- Lightning-fast development server powered by Vite
+- TypeScript support out of the box
+- Tailwind CSS for rapid styling
+- Framer Motion animations
+- Mobile-friendly responsive design
+- Hot module replacement for instant updates
+- ESLint and Prettier configuration
+- Production-ready build setup
 
 ## Getting Started
 
